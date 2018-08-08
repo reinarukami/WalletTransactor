@@ -1,0 +1,10 @@
+c:\users\rsumalde\documents\visual studio 2017\Projects\WalletTransactor\WalletTransactor\bin\Debug\WalletTransactor.exe.config
+c:\users\rsumalde\documents\visual studio 2017\Projects\WalletTransactor\WalletTransactor\bin\Debug\WalletTransactor.exe
+c:\users\rsumalde\documents\visual studio 2017\Projects\WalletTransactor\WalletTransactor\bin\Debug\WalletTransactor.pdb
+c:\users\rsumalde\documents\visual studio 2017\Projects\WalletTransactor\WalletTransactor\obj\Debug\WalletTransactor.Properties.Resources.resources
+c:\users\rsumalde\documents\visual studio 2017\Projects\WalletTransactor\WalletTransactor\obj\Debug\WalletTransactor.csproj.GenerateResource.cache
+c:\users\rsumalde\documents\visual studio 2017\Projects\WalletTransactor\WalletTransactor\obj\Debug\WalletTransactor.csproj.CoreCompileInputs.cache
+c:\users\rsumalde\documents\visual studio 2017\Projects\WalletTransactor\WalletTransactor\obj\Debug\WalletTransactor.exe
+c:\users\rsumalde\documents\visual studio 2017\Projects\WalletTransactor\WalletTransactor\obj\Debug\WalletTransactor.pdb
+c:\users\rsumalde\documents\visual studio 2017\Projects\WalletTransactor\WalletTransactor\obj\Debug\WalletTransactor.Form1.resources
+c:\users\rsumalde\documents\visual studio 2017\Projects\WalletTransactor\WalletTransactor\obj\Debug\WalletTransactor.csprojAssemblyReference.cache
